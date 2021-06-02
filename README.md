@@ -1,4 +1,4 @@
-# Publitas Assessment
+# Assessment
 
 The assessment assigned by Publitas for Back end.
 
